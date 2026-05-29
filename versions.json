@@ -1,0 +1,117 @@
+﻿[
+    {
+        "id":  "d4eqohofodk3hij1sgth",
+        "function_id":  "d4eodse31mpvka77cngt",
+        "created_at":  "2025-09-16T12:54:09.659Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "1610612736"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "1761280",
+        "status":  "ACTIVE",
+        "tags":  [
+                     "$latest"
+                 ],
+        "environment":  {
+                            "BITRIX_WEBHOOK":  "\u003credacted\u003e",
+                            "MYSQL_DB":  "\u003credacted\u003e",
+                            "MYSQL_HOST":  "\u003credacted\u003e",
+                            "MYSQL_PASSWORD":  "\u003credacted\u003e",
+                            "MYSQL_SSL_CA":  "\u003credacted\u003e",
+                            "MYSQL_USER":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4eaujveo3isgr4hrq0j",
+        "function_id":  "d4eodse31mpvka77cngt",
+        "created_at":  "2025-09-16T10:28:43.853Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "1610612736"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "1761280",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "BITRIX_WEBHOOK":  "\u003credacted\u003e",
+                            "MYSQL_DB":  "\u003credacted\u003e",
+                            "MYSQL_HOST":  "\u003credacted\u003e",
+                            "MYSQL_PASSWORD":  "\u003credacted\u003e",
+                            "MYSQL_SSL_CA":  "\u003credacted\u003e",
+                            "MYSQL_USER":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4epjdhgms9cta2f5i5u",
+        "function_id":  "d4eodse31mpvka77cngt",
+        "created_at":  "2025-09-16T10:21:46.941Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "1610612736"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "1761280",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "BITRIX_WEBHOOK":  "\u003credacted\u003e",
+                            "MYSQL_DB":  "\u003credacted\u003e",
+                            "MYSQL_HOST":  "\u003credacted\u003e",
+                            "MYSQL_PASSWORD":  "\u003credacted\u003e",
+                            "MYSQL_SSL_CA":  "\u003credacted\u003e",
+                            "MYSQL_USER":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4e9sikar0uqk764h86a",
+        "function_id":  "d4eodse31mpvka77cngt",
+        "created_at":  "2025-09-16T09:50:27.555Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "1610612736"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "1761280",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "BITRIX_WEBHOOK":  "\u003credacted\u003e",
+                            "MYSQL_DB":  "\u003credacted\u003e",
+                            "MYSQL_HOST":  "\u003credacted\u003e",
+                            "MYSQL_PASSWORD":  "\u003credacted\u003e",
+                            "MYSQL_SSL_CA":  "\u003credacted\u003e",
+                            "MYSQL_USER":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    }
+]
